@@ -1,0 +1,17 @@
+{
+  "name": "mf-workshop",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siraphob Rhompo <siraphob.r@linecorp.com>",
+  "license": "ISC",
+  "dependencies": {
+    "node-tailor": "^3.9.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}

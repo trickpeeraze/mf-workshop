@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+      #layout-wrapper {
+        display: grid;
+        grid-template-columns: 2fr 10fr;
+        gap: 8px;
+      }
+    </style>
+  </head>
+  <body>
+			<div id="layout-wrapper">
+        <aside><fragment src="http://127.0.0.1:8081" /></aside>
+        <main>
+          <h1>Characters</h1>
+          <fragment src="http://127.0.0.1:8090/" />
+        </main>
+      </div>
+  </body>
+</html>
