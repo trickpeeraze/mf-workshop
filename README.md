@@ -242,7 +242,7 @@ Step 10: try integration using a new fragment at `/templates/characters.html`
 </html>
 ```
 
-Step 11: change fragment base path at `vue.config.js`
+Step 11: change fragment base path at `/line-town-characters/vue.config.js`
 
 ```js
 {
@@ -252,7 +252,7 @@ Step 11: change fragment base path at `vue.config.js`
 // if localhost doesn’t work use 127.0.0.1 instead.
 ```
 
-Step: 12: update routes at `/router/index.js`
+Step: 12: update routes at `/line-town-characters/router/index.js`
 
 ```js
 const routes = [
