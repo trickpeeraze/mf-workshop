@@ -204,7 +204,7 @@ Step 8: create a new template `/templates/characters.html` by duplicate `/templa
 └── ...     
 ```
 
-Step 9: clone a new fragment
+Step 9: clone a new fragment from https://github.com/trickpeeraze/line-town-characters
 
 ```sh
 git clone https://github.com/trickpeeraze/line-town-characters.git
